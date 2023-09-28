@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abhishe 
+- 👋 Hi, I’m @Abhishek
 - 👀 I’m interested in  S/W Developement
 - 🌱 I’m currently learning Full stack development
 
